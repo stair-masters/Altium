@@ -1,0 +1,25 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [StairMastersPDB.PrjPcb]
+   Generated File[StairMastersPDB.GTO]
+   Generated File[StairMastersPDB.GTP]
+   Generated File[StairMastersPDB.GTS]
+   Generated File[StairMastersPDB.GTL]
+   Generated File[StairMastersPDB.G1]
+   Generated File[StairMastersPDB.G2]
+   Generated File[StairMastersPDB.GBL]
+   Generated File[StairMastersPDB.GBS]
+   Generated File[StairMastersPDB.GBP]
+   Generated File[StairMastersPDB.GBO]
+   Generated File[StairMastersPDB.GM1]
+   Generated File[StairMastersPDB.GD1]
+   Generated File[StairMastersPDB.GG1]
+   Generated File[StairMastersPDB.GM]
+   Generated File[StairMastersPDB.EXTREP]
+   Generated File[StairMastersPDB.REP]
+
+
+Files Generated   : 16
+Documents Printed : 0
+
+Finished Output Generation At 11:38:14 AM On 4/3/2023
